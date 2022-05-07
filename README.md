@@ -13,3 +13,5 @@
 4) Нормализация. 1НФ, 2Нф, 3НФ.
 5) Физическое проектирование и реализация
 Определение ограничений(CONSTRAINT). Написание базы данных. Написание Хранимых процедур, функций и триггеров.
+
+![ER-Diagram](https://github.com/filthps/DEV-DB/blob/main/Zadanie3-litovchenko_obnovlenie.png)
